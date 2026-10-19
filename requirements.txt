@@ -1,0 +1,11 @@
+numpy==2.5.4
+opencv-python==5.0.0.93
+matplotlib==3.11.2
+pillow==12.3.0
+
+torch==2.14.1
+torchvision==0.29.1
+kornia==0.8.3
+lightglue @ git+https://github.com/cvg/LightGlue.git@eb42fee2d71449efb0aa5c10549752b5d75384d8
+
+pycolmap==4.2.1
